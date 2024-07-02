@@ -1,3 +1,4 @@
 nginx
 python:3.10
 wordpress:6.5.4-php8.1
+dokuwiki/dokuwiki
